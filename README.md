@@ -1,7 +1,7 @@
 # Hi, I'm Abdelmalek 👋
 
 I am an **applied mathematics engineer** and **Data Scientist**, curious about everything
-mathematics makes possible — from statistical modeling to artificial intelligence.
+mathematics makes possible.
 
 📍 Paris, France &nbsp;·&nbsp; 🏢 [ZestMeUp](https://zestmeup.com) &nbsp;·&nbsp; 🌐 [abdelmalek1937.github.io](https://abdelmalek1937.github.io)
 
@@ -28,10 +28,10 @@ mathematics makes possible — from statistical modeling to artificial intellige
 <details open>
 <summary><b>Data science & AI</b></summary>
 
-- **Intelligent recruiting agent** — a RAG-based system that matches résumés to job postings,
+- **[Intelligent recruiting agent](https://github.com/abdelmalek1937/Intelligent-recruiting-agent)** — a RAG-based system that matches résumés to job postings,
   exposed through a REST API and a real-time web app.
   *Python, FastAPI, RAG, Qdrant, Streamlit*
-- **Boosting methods for churn prediction** — a benchmark of ensemble models on 7,000+ customers
+- **[Boosting methods for churn prediction](https://github.com/abdelmalek1937/Boosting-methods-for-churn-prediction-)** — a benchmark of ensemble models on 7,000+ customers
   to inform retention strategies.
   *XGBoost, Random Forest, Boosting*
 
@@ -40,7 +40,7 @@ mathematics makes possible — from statistical modeling to artificial intellige
 <details>
 <summary><b>Actuarial science & statistics</b></summary>
 
-- **Auto insurance pricing & reserving with ML** — premium modeling (GLM vs. ML) and
+- **[Auto insurance pricing & reserving with ML](https://github.com/abdelmalek1937/Auto-insurance-pricing-reserving-with-ML)** — premium modeling (GLM vs. ML) and
   stochastic reserve estimation (Chain Ladder, bootstrap).
   *R, GLM, Machine Learning*
 

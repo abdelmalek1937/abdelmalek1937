@@ -40,7 +40,7 @@ mathematics makes possible.
 <details>
 <summary><b>Actuarial science & statistics</b></summary>
 
-- **[Auto insurance pricing & reserving with ML](https://github.com/abdelmalek1937/Auto-insurance-pricing-reserving-with-ML)** — premium modeling (GLM vs. ML) and
+- **[Auto insurance pricing & reserving with ML](https://github.com/abdelmalek1937/Auto-insurance-pricing-reserving-with-ML)**, premium modeling (GLM vs. ML) and
   stochastic reserve estimation (Chain Ladder, bootstrap).
   *R, GLM, Machine Learning*
 

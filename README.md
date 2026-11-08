@@ -28,10 +28,10 @@ mathematics makes possible.
 <details open>
 <summary><b>Data science & AI</b></summary>
 
-- **[Intelligent recruiting agent](https://github.com/abdelmalek1937/Intelligent-recruiting-agent)** — a RAG-based system that matches résumés to job postings,
+- **[Intelligent recruiting agent](https://github.com/abdelmalek1937/Intelligent-recruiting-agent)**, a RAG-based system that matches résumés to job postings,
   exposed through a REST API and a real-time web app.
   *Python, FastAPI, RAG, Qdrant, Streamlit*
-- **[Boosting methods for churn prediction](https://github.com/abdelmalek1937/Boosting-methods-for-churn-prediction-)** — a benchmark of ensemble models on 7,000+ customers
+- **[Boosting methods for churn prediction](https://github.com/abdelmalek1937/Boosting-methods-for-churn-prediction-)**, a benchmark of ensemble models on 7,000+ customers
   to inform retention strategies.
   *XGBoost, Random Forest, Boosting*
 
